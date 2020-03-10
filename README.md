@@ -1,2 +1,3 @@
-# mapped
-Mathematics for forensics: modelling the transfer of contaminants from a finger to a surface
+# Mathematics for forensics:
+## modelling the transfer of contaminants from a finger to a surface
+Understanding the transference of trace residue from a contaminant to a surface is important in many applications and in particular for forensic sciences where this allows for forensic reconstruction and provides evidence for criminal investigation. This project proposes a novel mathematical model for the behaviour of residue particles from a finger to a surface with increasing levels of complexity. This model is then verified by comparing with experimental data by using an optimisation algorithm and generating parameters for each variant of the model. 
